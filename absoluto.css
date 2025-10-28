@@ -1,0 +1,29 @@
+.contenedor{
+    border:1px solid #aaa;
+    background-color:#DDDDDD;
+    margin:0 auto;
+    width: 60%
+}
+
+.verde{
+    margin:0 auto;
+    width: 94%;
+    height: 20px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+.rojo{
+    margin:0 auto;
+    width: 94%;
+    height: 20px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.azul{
+    margin:0 auto;
+    width: 94%;
+    height: 20px;
+    background-color: blue;
+    margin-bottom: 20px;
+}
